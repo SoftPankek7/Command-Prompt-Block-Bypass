@@ -1,5 +1,4 @@
 # Command-Prompt-Block-Bypass
-##
 ### How this works
 
 This works by using the Python `os.system()` function from the Python OS library to bypass any Command Prompt blocking systems. The simplest and smallest way you could incorporate this is: 
