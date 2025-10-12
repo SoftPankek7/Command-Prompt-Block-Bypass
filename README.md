@@ -39,3 +39,8 @@ Finally, I also theoretically fixed the ``cd`` command from not working (due to 
 ### Cross compatibility
 
 However, the main code for the repository (unlike the 2 examples above) are **focused for Microsoft Windows**, instead of Linux, MacOS and other UNIX/POSIX-based systems.
+
+##
+### Credit
+
+[hippogriff](https://github.com/hippogriff101) for assisting my development prosess and forcing me to shut down my pc and eat food.
