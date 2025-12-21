@@ -43,4 +43,4 @@ However, the main code for the repository (unlike the 2 examples above) are **fo
 ##
 ### Credit
 
-[hippogriff](https://github.com/hippogriff101) for assisting my development prosess and forcing me to shut down my pc and eat food.
+[hippogriff](https://github.com/hippogriff101) for assisting my development (not really, just here because I - softpankek - felt empathy)
